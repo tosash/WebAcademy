@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WebAcademy</string>
+    <string name="hello_world">Текущее значение: </string>
+    <string name="action_settings">Settings</string>
+    <string name="action_quit">Выход</string>
+    <string name="btnIncName">inc value</string>
+    <string name="stringMatrixSize">5</string>
+    <string name="NewMatrixText">New Matrix</string>
+    <string name="title_activity_buttons_diagonal_view">ButtonsDiagonalView</string>
+    <string name="title_activity_calc">CalcActivity</string>
+
+</resources>
